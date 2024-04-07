@@ -1,0 +1,16 @@
+[
+{
+  "modid": "weaponsmith",
+  "name": "Weapon Smith",
+  "description": "Weapon smithing",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EagleOfFire"],
+  "credits": "Byifire for help",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
